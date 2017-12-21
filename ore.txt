@@ -1,0 +1,902 @@
+Primary care
+
+Improving management of obesity in primary care:
+cluster randomised trial
+Helen Moore, Carolyn D Summerbell, Darren C Greenwood, Philip Tovey, Jacqui Griffiths,
+Maureen Henderson, Kate Hesketh, Sally Woolgar, Ashley J Adamson
+
+Abstract
+Objective To evaluate a training programme intended
+to improve the management of obesity, delivered to
+general practice teams.
+Design Cluster randomised trial.
+Setting Northern and Yorkshire region of England
+Participants 44 general practices invited
+consecutively attending obese adults to participate;
+843 patients attended for collection of baseline data
+and were subsequently randomised.
+Intervention 4.5 hour training programme
+promoting an obesity management model.
+Main outcome measures Difference in weight
+between patients in intervention and control groups
+at 12 months (main outcome measure) and at 3
+months and 18 months; change in practitioners’
+knowledge and behaviour in obesity management
+consultations.
+Results Twelve months after training the patients in
+the intervention group were 1 (95% confidence
+interval − 1.9 to 3.9) kg heavier than controls (P = 0.5).
+Some evidence indicated that practitioners’
+knowledge had improved. Some aspects of the
+management model, including recording weight,
+target weight, and dietary targets, occurred more
+frequently in intervention practices after the training,
+but in absolute terms levels of implementation were
+low.
+Conclusion A training package promoting a brief,
+prescriptive approach to the treatment of obesity
+through lifestyle modification, intended to be
+incorporated into routine clinical practice, did not
+ultimately affect the weight of this motivated and at
+risk cohort of patients.
+
+Introduction
+Obesity is now a major public health problem across
+the world. Easy solutions are unlikely, given the
+complex interaction between the abundant availability
+of energy dense food, the ever decreasing demand for
+energy expenditure in the modern world, and the
+impact of our genetic make up. Treatment of people
+who are already obese is difficult; however, several systematic reviews in recent years have shown that diet,
+exercise, and behavioural approaches, used in combiBMJ VOLUME 327
+
+8 NOVEMBER 2003
+
+bmj.com
+
+nation, are effective management strategies, at least in
+the short term.1 2
+The role of primary care in managing obesity in
+the United Kingdom is linked to achieving targets for
+the national service framework for coronary heart disease.3 The Department of Health stated that primary
+care should “use every opportunity to promote healthy
+lifestyles” and should provide advice on diet, weight
+reduction, and exercise.4 A survey of general practitioners and practice nurses by the National Audit
+Office identified several factors that they felt would
+assist them in the treatment of patients, including more
+information on effective interventions, availability of
+better materials for advising patients, and better training for staff.5 Little is known about how effective such
+training is in helping primary care teams to manage
+obesity more effectively. A systematic review of
+interventions to improve health professionals’ management of obesity in 1999 found little rigorous
+research from which to draw conclusions.6
+We have evaluated, in a cluster randomised trial, a
+training programme (the intervention) promoting the
+evidence based treatment of obesity, delivered to
+general practice teams (unit of randomisation).
+Although many trials have measured the effectiveness
+of training, few have measured effectiveness at the level
+of health outcomes in patients. The primary outcome
+measure in this study was difference in patients’ weight,
+but we also measured difference in practitioners’
+knowledge and behaviour in weight management
+consultations.
+
+Methods
+The method has been reported in detail elsewhere.7
+Figures 1 and 2 show the flow of practices, staff, and
+patients through the trial.
+Recruitment
+We recruited practices from four health authority areas
+in the Northern and Yorkshire region of England
+during a four month period. We invited all 161
+practices in selected primary care groups to participate, of which we randomised 44 (without financial
+incentives): 12 in North Durham, 16 in Leeds, 10 in
+Newcastle, and 6 in Scarborough. All general
+practitioners and practice nurses in the 44 practices (a
+total of 245 staff) were eligible to participate. In a pre-
+
+Centre for Research
+in Primary Care,
+University of Leeds,
+Leeds LS2 9PL
+Helen Moore
+director of Yorkshire
+Primary Care
+Research Network
+School of Health,
+University of
+Teesside,
+Middlesbrough
+TS1 3BA
+Carolyn D
+Summerbell
+reader in human
+nutrition
+Biostatistics Unit,
+University of Leeds,
+Leeds LS2 9LN
+Darren C
+Greenwood
+lecturer in medical
+statistics
+School of
+Healthcare Studies,
+University of Leeds,
+Leeds LS2 9JT
+Philip Tovey
+principal research
+fellow
+Department of
+Nutrition and
+Dietetics, Leeds
+Community
+Nutrition, St Mary’s
+Hospital, Leeds
+LS12 3QE
+Jacqui Griffiths
+senior community
+dietitian
+Department of
+Nutrition and
+Dietetics, University
+Hospital of North
+Durham, Durham
+DH1 5TW
+Maureen
+Henderson
+senior community
+dietitian
+continued over
+bmj.com 2003;327:1085
+
+page 1 of 5
+
+Primary care
+Newcastle
+Nutrition, Newcastle
+Hospitals NHS
+Trust, Royal
+Victoria Infirmary,
+Newcastle upon
+Tyne NE1 4LP
+Kate Hesketh
+senior community
+dietitian
+Department of
+Nutrition and
+Dietetics,
+Scarborough,
+Whitby and Ryedale
+Primary Care Trust,
+Scarborough
+Hospital,
+Scarborough
+YO12 6QL
+Sally Woolgar
+diabetes specialist
+dietitian
+Human Nutrition
+Research Centre,
+School of Clinical
+Medical Sciences,
+University of
+Newcastle upon
+Tyne, Newcastle
+NE1 7RU
+Ashley J Adamson
+lecturer in human
+nutrition
+Correspondence to:
+Helen Moore
+h.moore@leeds.ac.uk
+
+Practices invited to participate (n=161)
+Refused or not able
+to participate (n=115)
+Practices agreed to participate (n=46, 28%)
+Withdrew due to pressures
+in practice (n=2, 4%)
+
+Randomised: practices (n=44), staff (n=245),
+staff completing baseline assessment (n=231)
+
+Intervention
+Practices (n=22), staff (n=115)
+
+Control
+Practices (n=22), staff (n=116)
+
+Practices not receiving planned
+intervention (n=2, 9%)
+Declined training (n=1)
+Sessions combined (n=1)
+Practices completing the trial
+(n=22). Staff completing follow
+up assessment (n=95, 83%)
+
+Practices completing the trial
+(n=22). Staff completing follow
+up assessment (n=97, 84%)
+
+Fig 1 Flow of practices and practice staff through the trial
+
+vious trial,8 staff working in primary care but between
+practices (for example, district nurses and health
+visitors) were a source of contamination, so we asked
+for these staff to be excluded from the study.
+The study protocol required practice staff to invite
+consecutively attending obese adults (body mass index
+≥ 30 kg/m2) aged 16 to 64 years to participate in the
+trial over a defined six month recruitment period.
+Patients were asked to return a consent form to the
+practice by stamped addressed envelope or on their
+next visit. The recruitment strategy was extended to
+include assistance from study personnel and mail
+shots. Towards the end of the recruitment period, a
+researcher accessed the list of patients who had been
+recruited in the early stages and invited them to attend
+for collection of baseline data, so that all patients had
+been weighed within two months of randomisation. All
+practices were randomised simultaneously in June
+2000.
+Randomisation
+Raab and Butcher did the randomisation, using the
+method they described in 2001, in which patient level
+characteristics (body mass index at recruitment, age,
+and sex) and practice level characteristics (practice size,
+socioeconomic status, and existence of dietetic service)
+were used to inform randomisation.9 One permutation
+of treatment allocation with acceptable balance was
+randomly selected, a method that ensured equal numbers of practices and approximately equal numbers of
+patients in both treatment arms. Researchers collecting
+baseline data contacted a distant member of the
+project team to ascertain intervention status. We
+arranged delivery of the intervention to practices as
+soon as possible after completion of baseline data.
+Each intervention practice was allocated a control
+practice pair—for purposes of data collection only—to
+reduce any impact of seasonal variation in the main
+outcome variable.10
+
+page 2 of 5
+
+Intervention
+At the start of the intervention period, we provided all
+practices with a list of their patients who had entered the
+trial. The educational strategy was based on a previous
+nutrition training programme.8 We delivered three 90
+minute sessions, intended to be delivered at intervals of
+no less than one week and no more than two weeks
+apart, to the 22 intervention practices. We asked all general practitioners and practice nurses to attend all three
+sessions. Four dietitians were trained in the standardised
+delivery of the training and then delivered the
+programme to small group, multidisciplinary general
+practice teams. The programme promoted a model
+approach to obesity treatment, which incorporated best
+evidence and was perceived to be brief enough that primary care staff could deliver it to their patients. The
+training covered information on the clinical benefit of
+weight loss and effective treatment options, including
+reduction of dietary energy intake, increased physical
+activity, and pharmaceutical intervention.
+The model of obesity management entailed practitioners seeing patients regularly (about every two
+weeks) until they had lost 10% of their original body
+weight and then less regularly (about every one to two
+months) for maintenance of weight over a sustained
+period. Current and target weight and dietary and
+activity targets were to be recorded in the patients’
+records to facilitate continuity of support across
+practice teams. Prescription of a moderate energy deficit diet was advocated, as recommended by the Scottish
+Intercollegiate Guidelines Network.11 A “ready reckoner” was produced to allow practitioners to estimate a
+patient’s daily energy requirement and then to
+calculate a daily 500 kcal (2.5 MJ) deficit. Diet sheets
+and supporting written resources facilitated the dietary
+prescription to patients. At the end of the three
+
+Invited to join study (n=unknown)
+
+Returned consent form (n=991)
+Lost during run-in
+period (n=148, 15%)
+Completed baseline assessment and randomised (n=843)
+
+Patients in intervention
+practices (n=415)
+
+Patients in control
+practices (n=428)
+
+Withdrew (n=84, 20%)
+3 month assessment
+(n=331, 80%)
+
+Withdrew (n=97, 23%)
+
+3 month assessment
+(n=333, 77%)
+
+Withdrew (n=52, 12%)
+12 month assessment
+(n=279, 67%)
+
+Withdrew (n=47, 11%)
+
+12 month assessment
+(n=286, 67%)
+
+Withdrew (n=23, 6%)
+18 month assessment
+(n=256, 62%)
+
+Withdrew (n=11, 3%)
+
+18 month assessment
+(n=275, 64%)
+
+Fig 2 Flow of patients through the trial
+
+BMJ VOLUME 327
+
+8 NOVEMBER 2003
+
+bmj.com
+
+Primary care
+training sessions, practices devised individualised
+weight management protocols based on the model
+and were encouraged to implement this with patients
+recruited to the study. Control practices were asked to
+provide usual care to their patients.
+Outcome measures
+The primary outcome measure was difference in mean
+weight of patients between intervention and control
+practices 12 months after the intervention. We also
+measured difference in weight at three months and 18
+months post-intervention. We measured knowledge of
+obesity management and self reported behaviour in
+obesity management consultations for all practice staff
+before and after the intervention. We gathered this
+information by using a questionnaire designed by us
+and field tested with staff from non-participating
+practices.
+Process assessment
+Practices had no trial specific responsibility to see
+patients once the training intervention had been delivered. We used process assessment to provide insight
+into the implementation of the weight management
+protocol. Researchers extracted information from the
+medical records of those patients still participating in
+the trial, in both arms, one year after the intervention.
+These data included whether patients had been seen
+about their weight and whether weight, diet, and exercise targets had been recorded as advocated in the
+intervention.
+Sample size and analysis
+A clinically significant effect of intervention can be
+achieved with as little as 5% (or 3-5 kg) weight loss in
+obese people.1 2 We designed the study to have 80%
+power to detect a mean difference in weight between
+treatment arms of approximately 3-5 kg, assuming 5%
+significance and a within practice correlation coefficient of 0.05. Allowing for withdrawal and loss to
+follow up of 15%, this gave a required number of
+patients per treatment arm of approximately 660,
+equivalent to 22 practices recruiting 30 patients each.
+We collated all data on a purposefully designed
+database by using Microsoft Access software. We
+analysed change in both continuous and categorical
+outcome variables by using STATA to account for both
+within cluster and between cluster variation. We did
+analyses on an intention to treat basis, where possible.
+Blinding
+Patients were not aware of the intervention status of
+their practice, and researchers collecting outcome
+measurements from patients were blind to the
+intervention status of the practices, both before and
+after the intervention. Double blinding was not
+possible in this trial, as practice staff were inevitably
+aware of whether or not they had been trained.
+
+Results
+All 44 practices completed the trial. One practice (allocated to the intervention group) declined the training
+intervention but agreed to continue with outcome
+assessment, and one would only consent to the training
+if two of the three sessions were combined. Training
+was delivered between June and November 2000. This
+BMJ VOLUME 327
+
+8 NOVEMBER 2003
+
+bmj.com
+
+Table 1 Baseline characteristics of patients and practices
+Intervention
+
+Control
+
+Patients
+
+(n=415)
+
+(n=428)
+
+Mean (SD) weight (kg)
+
+100.8 (18.1)
+
+100.2 (17.4)
+
+Mean (SD) body mass index (kg/m2)
+
+37.0 (5.7)
+
+36.9 (5.8)
+
+Mean (SD) age (years)
+
+48.4 (10.9)
+
+48.8 (12.2)
+
+No (%) male
+
+104 (25)
+
+116 (27)
+
+Practices
+
+(n=22)
+
+No (%) with dietetic input
+
+9 (41%)
+
+9 (41%)
+
+3.4 (−0.9-5.8)
+
+2.4 (0.1-7.1)
+
+4 (3-6)
+
+4 (2-6)
+
+Median (interquartile range) socioeconomic status
+Median (interquartile range) No of general practitioners
+
+(n=22)
+
+Table 2 Difference in weight and body mass index between patients from intervention
+and control practices
+
+Intervention
+
+Control
+
+Difference
+(intervention−control)
+(95% CI)
+
+P value
+
+Weight (kg)
+Three months after training (n=664)
+
+100.4
+
+99.8
+
++0.6 (−2.1 to 3.2)
+
+0.7
+
+12 months after training (n=565)
+
+100.3
+
+99.3
+
++1.0 (−1.9 to 3.9)
+
+0.5
+
+18 months after training (n=531)
+
+100.8
+
+99.5
+
++1.3 (−1.8 to 4.4)
+
+0.4
+
+Body mass index (kg/m2)
+Three months after training (n=663*)
+
+36.8
+
+36.9
+
+−0.2 (−1.2 to 0.8)
+
+0.7
+
+12 months after training (n=564*)
+
+36.9
+
+36.8
+
+0 (−1.0 to 1.0)
+
+0.96
+
+18 months after training (n=530*)
+
+37.1
+
+36.9
+
+0.1 (−1.0 to 1.1)
+
+0.9
+
+*Height missing from data for one patient.
+
+Table 3 Change in practitioners’ knowledge of obesity management
+Odds ratio (95% CI) of
+providing correct response
+(intervention v control)
+
+P value
+
+By 1997, the prevalence of obesity in England was? (17%
+men, 20% women)
+
+2.0 (1.1 to 3.5)
+
+0.02
+
+What rate of weight loss would you recommend for obese
+adults? (0.5-1 kg a week)
+
+1.5 (0.5 to 3.9)
+
+0.4
+
+The recommended energy deficit for long term weight loss is?
+(500 kcal)
+
+3.0 (1.6 to 5.8)
+
+0.001
+
+Which of the following meals has the highest fat content?
+(Minced meat pie, chips, and peas)
+
+0.56 (0.3 to 1.02)
+
+0.06
+
+Adults trying to lose weight should be advised to eat less
+starchy food? (False)
+
+1.3 (0.5 to 2.9)
+
+0.6
+
+Question (correct response)
+
+extended intervention period was due to difficulties in
+arranging training sessions in practices.
+In total, 991 patients gave consent, of whom 843
+(85%) attended for collection of baseline data and were
+subsequently randomised. Table 1 shows the characteristics of the practices and patients after randomisation.
+Table 2 shows the difference in patients’ weight after
+the training. Twelve months after the training the
+patients in the intervention group were 1 (95%
+confidence interval − 1.9 to 3.9) kg heavier than the
+controls (P = 0.5).
+Two hundred and thirty one (95%) practitioners
+completed the questionnaire at baseline, and 192
+(83%) of these completed the post-intervention assessment. Table 3 shows the difference in knowledge levels
+between control and intervention practitioners after
+the training. The odds ratio of providing the correct
+response was higher for trained practices for all but
+one of the five questions, but only two of these reached
+statistical significance.
+We collected process information from the medical
+records of 670 patients. Table 4 shows the difference in
+activities between intervention and control practices
+one year after the training intervention. Patients in
+trained practices consulted, on average, on two more
+page 3 of 5
+
+Primary care
+occasions than patients in control practices in the year
+after the delivery of the training. Trained practices were
+more likely to discuss weight (odds ratio 2.0, P = 0.003),
+and the records of patients from trained practices were
+more likely to include weight (odds ratio 2.0,
+P = 0.004), target weight (13.6, P ≤ 0.001), and dietary
+targets (4.5, P = 0.02).
+
+Discussion
+The rapid increase in the incidence of obesity and
+associated comorbidities presents a major challenge to
+health care in the United Kingdom. The National
+Audit Office reported a lack of “buy in” towards management of obesity on the part of general practitioners,
+but also that training, information on the effectiveness
+of interventions, and resources to use with patients
+would assist them in the task.5 Our findings indicate
+that a training package promoting a brief and
+prescriptive approach to the treatment of obesity by
+using lifestyle modification, and intended to assist primary care staff incorporating such treatment into routine care, did not ultimately affect the weight of this
+motivated and at risk cohort of patients.
+Impact of the intervention
+The training was well received and was based on an
+acceptable model applied in a previous study.8
+Practitioners’ knowledge of the principles of obesity
+management improved, and trained practitioners were
+more likely to implement weight management
+strategies promoted in the training. Patients from
+trained practices were seen more often and were more
+likely to have weight, target weights, and dietary targets
+documented in their records, but in absolute terms the
+level of implementation was low. Target weights were
+recorded for only 14% of participating patients in
+trained practices, compared with just 3% of participating patients in control practices, in the year after delivery of the training. Patients in trained practices
+attended two more consultations than did those in
+control practices, averaging eight consultations in the
+year after the intervention. Treatment as per protocol
+would entail fortnightly follow up until 10% of initial
+body weight was lost, potentially some 20 or more consultations in the year. The low level of implementation
+of the obesity management model means that we
+cannot draw conclusions about its effectiveness.
+The training programme was realistic in terms of
+the type of training that might be delivered to primary
+care teams by NHS dietitians. Obesity management is
+complex, and strategies that have shown promise in
+the literature include the application of behaviour
+change techniques, antiobesity drugs, and promotion
+
+of higher levels of physical activity. Undoubtedly, a four
+and a half hour training programme can only scratch
+the surface of these issues. Even so, several general
+practitioners from these motivated practices expressed
+misgivings about the need to devote so much time to
+the subject, and indeed more in-depth training for
+practice teams is unlikely to be feasible, set against
+competing educational priorities in general practice.
+Strengths and weaknesses of the study
+Several previously recognised characteristics of obesity
+treatment trials were evident in our study.12 Samples
+are usually biased towards women, and our sample was
+predominately female. In addition, our sample was
+skewed towards more extreme obesity. Retention of
+participants in obesity trials is recognised as problematic,12 and it was potentially an even greater problem in
+our study, as the intervention was aimed at practices
+and it may have been difficult for patients to see any
+benefit from participation. Despite the observed loss to
+follow up of patients, the study maintained 80% power
+owing to a negligible within practice correlation
+coefficient for the main outcome variable.
+Using the general practice as the unit of
+randomisation reduces the possibility of contamination between treatment arms by minimising the risk of
+contact between health professionals from different
+arms. As stated earlier, in an effort to further eliminate
+contamination, we offered training only to general
+practitioners and practice nurses. In reality, enforcing
+this research condition was difficult, and many
+additional practice staff, including district nurses and
+health visitors, turned up for the training. We detected
+no evidence of contamination between intervention
+groups, but this cannot be ruled out.
+Conclusion
+This training programme resulted in only limited
+implementation of an approach to obesity management and did not achieve improved patient weight loss.
+A more in-depth training programme might be more
+successful at changing practitioners’ behaviour but is
+unlikely to be generalisable to most general practices
+in the United Kingdom. Other strategies to manage
+obesity in primary care urgently need to be considered
+and evaluated. These might include motivated and
+dedicated obesity specialists placed at the level of the
+primary care trust, use of leisure services, and use of
+the commercial weight loss sector.
+We thank the dietetic managers, Chris Wyn-Jones (North
+Durham), Julia Smith (Newcastle Nutrition), Sue Waddington
+(Scarborough), and Celia Firmin (Leeds Community Dietetics)
+for their contribution to the study design and help to ensure its
+smooth running; Andy Vail (Hope Hospital, Salford) for his ini-
+
+Table 4 Difference in process outcomes between patients from intervention and control practices after training. Values are numbers
+(percentages) responding “Yes” unless stated otherwise
+Question
+
+Intervention
+
+Control
+
+Odds ratio (95% CI)
+
+P value
+
+317 (94)
+
+318 (96)
+
+0.6 (0.3 to 1.3)
+
+0.23
+
+8
+
+6
+
+1.3 (1.0 to 1.6)*
+
+0.05
+
+Is there evidence that weight has been discussed? (n=650)
+
+186 (57)
+
+129 (40)
+
+2.0 (1.3 to 3.2)
+
+0.003
+
+Has weight been recorded? (n=650)
+
+197 (61)
+
+137 (42)
+
+2.0 (1.3 to 3.3)
+
+0.004
+
+Has a target weight been recorded? (n=643)
+
+46 (14)
+
+9 (3)
+
+13.6 (4.2 to 44.3)
+
+<0.001
+
+Have dietary targets been recorded? (n=648)
+
+48 (15)
+
+14 (4)
+
+4.5 (1.2 to 16.7)
+
+0.02
+
+Have exercise targets been recorded? (n=648)
+
+46 (14)
+
+25 (8)
+
+1.9 (0.7 to 5.0)
+
+0.2
+
+Has patient been seen since end of intervention? (n=668)
+Median No of times (n=626)
+
+*Estimate and confidence interval for attendance rate ratio.
+
+page 4 of 5
+
+BMJ VOLUME 327
+
+8 NOVEMBER 2003
+
+bmj.com
+
+Primary care
+What is already known on this topic
+Most obesity management in the United Kingdom
+takes place in primary care, but the approach is
+not coordinated or consistent
+Evidence shows that lifestyle modification can be
+effective in the treatment of obesity
+The Department of Health expects primary care
+to deliver weight management to obese patients
+
+What this study adds
+A brief training programme delivered to primary
+care improved practitioners’ knowledge and
+behaviour but did not result in improved weight
+loss in obese patients
+Implementation of the brief, prescriptive weight
+management model promoted in the training was
+low
+This raises questions about the feasibility of
+primary care practitioners incorporating weight
+management into routine clinical care
+
+tial statistical advice; Gillian Raab and Isabella Butcher (Napier
+University) for doing the randomisation; Paul Adamson for
+database design; the staff and patients from the participating
+practices; Ian Russell (University of Bangor) and Emma Harvey
+(University of Leeds) for sharing methodological insights from
+the UK BEAM trial; John Oldroyd and Jenny Copeland for their
+contributions to the early stage of the project; and Pauline
+Nelson, Brenda Fountain, Helen Medleycott, and Angela Udell
+for data collection.
+Contributors: HM was responsible for the conception, design,
+analysis, interpretation, and project management of the study
+and produced the first draft of this manuscript. CDS contributed
+to the design and was involved in project management,
+interpretation of results, and the second draft of the manuscript.
+DCG contributed to the design, supervised and helped to
+conduct the analysis, and contributed to the manuscript. PT
+
+BMJ VOLUME 327
+
+8 NOVEMBER 2003
+
+bmj.com
+
+contributed to the design of the study, was part of the advisory
+committee, and contributed to the manuscript. JG, MH, KH, and
+SW contributed to the project design, helped to develop and
+deliver the intervention, carried out data collection, and contributed to interpretation of results and to the manuscript. AJA was
+the principal investigator, supervised HM, shared responsibility
+for conception, design, interpretation, and project management,
+and contributed to the manuscript. HM and AJA are the
+guarantors.
+Funding: NHS Executive, Northern and Yorkshire.
+Competing interests: None declared.
+Ethical approval: The Northern and Yorkshire regional medical
+research ethics committee and five local research ethics
+committees approved the study.
+1
+
+Centre for Reviews and Dissemination. The prevention and treatment of
+obesity. Eff Health Care 1997;3(2).
+2 National Heart, Lung, and Blood Institute. Clinical guidelines on the identification, evaluation, and treatment of overweight and obesity in adults. Bethesda,
+MD: National Heart, Lung, and Blood Institute, 1998. Available at
+www.nhlbi.nih.gov/guidelines/obesity/ob_home.htm
+3 Department of Health. National service framework for coronary heart disease:
+modern standards and service models. London: Department of Health, 2000.
+4 Department of Health. Health improvement and prevention. National service
+frameworks: a practical aid to implementation in primary care. Department of
+Health, 2002. Available
+at
+www.doh.gov.uk/pricare/pdfs/nsf_
+healthimprovement.pdf
+5 National Audit Office. Tackling obesity in England: report by the Comptroller
+and Auditor General. London: Stationery Office, 2001. Available at
+www.nao.gov.uk/publications/nao_reports/00-01/0001220es.pdf
+6 Harvey EL, Glenny AM, Kirk SF, Summerbell CD. A systematic review of
+interventions to improve health professionals’ management of obesity. Int
+J Obes Relat Metab Disord 1999;23:1213-22.
+7 Moore H, Summerbell CD, Vail A, Greenwood DC, Adamson AJ. The
+design features and practicalities of conducting a pragmatic cluster
+randomised trial of obesity management in primary care. Stat Med
+2001;20:331-40.
+8 Moore H, Greenwood D, Gill T, Waine C, Soutter J, Adamson AJ. A cluster randomised trial to evaluate a nutrition training programme. Br J Gen
+Pract 2003;53:271-7.
+9 Raab G, Butcher I. Balance in cluster randomized trials. Stat Med
+2001;20:351-65.
+10 Andersson I, Rossner S. The Christmas factor in obesity therapy. Int J Obes
+Relat Metab Disord 1992;16:1013-5.
+11 Scottish Intercollegiate Guidelines Network. Obesity in Scotland: integrating
+prevention with weight management. Edinburgh: SIGN, 1996. (SIGN guideline no 8.)
+12 Yanovski SZ, Bain RP, Williamson DF. Report of a National Institutes of
+Health-Centers for Disease Control and Prevention workshop on the
+feasibility of conducting a randomized clinical trial to estimate the longterm health effects of intentional weight loss in obese persons. Am J Clin
+Nutr 1999;69:366-72.
+
+(Accepted )
+
+page 5 of 5
+
+

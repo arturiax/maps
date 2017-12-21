@@ -1,0 +1,1217 @@
+Health Promotion International, Vol. 27 No. 2
+doi:10.1093/heapro/dar016
+Advance Access published 11 March, 2011
+
+# The Author (2011). Published by Oxford University Press. All rights reserved.
+For Permissions, please email: journals.permissions@oup.com
+
+Applying the RE-AIM framework to evaluate two
+implementation strategies used to introduce a tool for
+lifestyle intervention in Swedish primary health care
+1
+
+Department of Medical and Health Sciences, Division of Community Medicine, Linköping University,
+SE-581 83 Linköping, Sweden 2R&D Department of Local Health Care, County Council
+of Östergötland, S:t Larsgatan 9D, SE-581 85 Linköping, Sweden 3Linköping University, SE-581 83
+Linköping, Sweden
+*Corresponding author. E-mail: siw.carlfjord@liu.se
+
+SUMMARY
+The aim of this study was to evaluate two implementation
+strategies for the introduction of a lifestyle intervention
+tool in primary health care (PHC), applying the RE-AIM
+framework to assess outcome. A computer-based tool for
+lifestyle intervention was introduced in PHC. A theorybased, explicit, implementation strategy was used at three
+centers, and an implicit strategy with a minimum of
+implementation efforts at three others. After 9 months a
+questionnaire was sent to staff members (n ¼ 159) and
+data from a test database and county council registers were
+collected. The RE-AIM framework was applied to evaluate
+
+outcome in terms of reach, effectiveness, adoption and
+implementation. The response rate for the questionnaire
+was 73%. Significant differences in outcome were found
+between the strategies regarding reach, effectiveness and
+adoption, in favor of the explicit implementation strategy.
+Regarding the dimension implementation, no differences
+were found according to the implementation strategy. A
+theory-based implementation strategy including a testing
+period before using a new tool in daily practice seemed to
+be more successful than a strategy in which the tool was
+introduced and immediately used for patients.
+
+Key words: implementation; primary health care; RE-AIM
+
+INTRODUCTION
+There is increasing interest in how to obtain the
+best available quality in health care delivery.
+Research regarding transference of knowledge
+into practice has expanded considerably in
+recent years. Different traditions can be identified, generally on the basis of EM Rogers’ theories about innovation diffusion (Rogers, 2003).
+Estabrooks et al. identified four main domains
+of ‘the knowledge utilization’ field in a bibliometric analysis: diffusion of innovations; knowledge utilization; technology transfer and
+
+evidence-based medicine (EBM) (Estabrooks
+et al., 2008). EBM emerged in the early 1990s
+and has had a great influence on research on
+implementation (Evidence-Based Medicine
+Working Group, 1992). Implementation science,
+which has developed in the wake of EBM, has
+been defined by Eccles and Mittman (Eccles
+and Mittman, 2006) as ‘the scientific study of
+methods to promote the systematic uptake of
+research findings and other evidence-based
+practices into routine practice, and, hence, to
+improve the quality and effectiveness of health
+services and care’.
+167
+
+Downloaded from http://heapro.oxfordjournals.org/ at Consorcio Osakidetza on October 19, 2016
+
+SIW CARLFJORD 1*, AGNETA ANDERSSON 2,3, PREBEN BENDTSEN 1,
+PER NILSEN 1 and MALOU LINDBERG 2,3
+
+168
+
+S. Carlfjord et al.
+
+METHODS
+The RE-AIM framework
+The RE-AIM framework can be used for the
+evaluation of public health interventions but
+also to fill the research-practice gap evaluating
+the translatability of the interventions (www
+.re-aim.org, 2010). Outcome is evaluated in five
+dimensions:
+reach,
+efficacy,
+adoption,
+implementation and maintenance, and can be
+adapted for use in a specific study (Farris et al.,
+2007). Applied in the translation field, the term
+effectiveness is often used instead of efficacy.
+A detailed description of the RE-AIM dimensions and their application in this study is presented in Table 1. Reach measured the proportion
+of staff members who chose to use the innovation
+as a new working tool. Effectiveness measured the
+effect on staff members’ attitudes and performance, which was assessed at the individual and
+setting levels. The dimension adoption was not relevant according to its original definition, because
+the PHC centers that were offered the new tool
+were selected beforehand. Instead the dimension
+adoption was used to assess adoption at the setting
+level, by measuring the proportion of patients who
+performed the test. Implementation measured
+fidelity to the original ideas of the innovation. The
+dimension maintenance was not considered in the
+study. The concept of implementation in this
+article is used in two ways: primarily to describe
+the whole process of introducing and putting the
+innovation into practice but also as one of the
+dimensions of the RE-AIM framework.
+The innovation
+The innovation that was implemented was a
+computer-based tool for screening and brief
+intervention regarding alcohol use and physical
+activity, developed for use in PHC. The tool
+consists of a touch-screen computer and a
+printer, placed in a so-called IT kiosk and staff
+are encouraged to refer their patients to the
+computer. Patients who perform the test receive
+a printed test result and tailored advice
+(Carlfjord et al., 2009).
+Implementation strategies
+Two implementation strategies were used to
+introduce the computer-based tool for lifestyle
+intervention in PHC: explicit and implicit
+
+Downloaded from http://heapro.oxfordjournals.org/ at Consorcio Osakidetza on October 19, 2016
+
+A current debate in implementation science
+is the use of theories to form strategies for
+implementation of change in clinical practice
+(Eccles et al., 2005). Eccles et al. argue that
+clinical practice is a form of human behavior,
+and thus could be described in terms of
+general human behavioral theories (Eccles
+et al., 2005). The use of theory, on the other
+hand, is rejected by Oxman et al., who say that
+there is no need for theory in implementation
+research
+(Oxman
+et
+al.,
+2005),
+and
+Bhattacharyya et al., who argue that there is no
+scientific evidence proving that a theory-based
+implementation strategy is more effective than
+one that is built on common sense
+(Bhattacharyya et al., 2006). There is, however,
+evidence that behavior change interventions
+based on theory are more effective than those
+not based on theory (van Achterberg et al.,
+2010).
+Thus, there is a need for research exploring
+whether theory-based strategies can contribute
+to more effective implementation than less
+theory-bound approaches (Bhattacharyya et al.,
+2006). It is also important to evaluate whether
+outcome is a result of the implementation
+process or the intervention implemented (Farris
+et al., 2007). One model that has been shown to
+be helpful in the evaluation process is the
+RE-AIM framework (Glasgow et al., 1999).
+This model was developed to evaluate interventions, but has also been applied to plan and
+conduct research studies, and to evaluate
+implementation outcome (Glasgow et al., 1999;
+Farris et al., 2007; Jillcott et al., 2007; Li et al.,
+2008; Bakken and Ruland, 2009). The RE-AIM
+framework offers a structure focusing on
+five dimensions in the evaluation process:
+reach, efficacy, adoption, implementation and
+maintenance.
+Implementation studies performed previously
+in Swedish primary health care (PHC) settings
+did not evaluate implementation strategy, but
+have focussed on other factors affecting
+implementation, such as adopter characteristics
+and context (Lövgren et al., 2001; Toth-Pal
+et al., 2008). The aim of the present study
+was to evaluate two implementation strategies
+for the introduction of a new tool for
+lifestyle intervention in PHC, applying the
+RE-AIM framework to assess outcome in
+terms of reach, effectiveness, adoption and
+implementation.
+
+Evaluation of implementation strategies
+
+169
+
+a
+
+Table 1: The RE-AIM framework and its application in the present study
+Original RE-AIM
+definition
+
+Application on
+implementation of
+innovations in PHC
+
+Definition in this study
+
+Outcome variable
+
+Reach
+
+The absolute number,
+proportion and
+representativeness of
+individuals who are
+willing to participate
+in a given initiative
+The effect of an
+intervention on
+important outcomes,
+including potential
+negative effects,
+quality of life and
+economic outcomes
+
+Proportion and
+representativeness of
+staff members who
+report having referred
+patients to the
+computer at least
+once a month
+The effect of the
+introduction of the
+computer-based test
+on staff members’
+attitudes and
+performance
+regarding lifestyle
+issues at the PHC
+center
+
+Proportion of staff
+members referring
+patients at least once
+a month
+
+Effectiveness
+
+Absolute number,
+proportion and
+representativeness of
+staff members who
+have participated, i.e.
+used the innovation
+in their practice
+The effect of the
+introduction of the
+innovation on staff
+members’ attitudes
+and performance
+
+Adoption
+
+The absolute number,
+proportion and
+representativeness of
+settings and
+intervention agents
+who are willing to
+initiate a program
+
+The extent to which the
+innovation has been
+accepted at center
+level
+
+Implementation
+
+At the setting level,
+implementation refers
+to the intervention
+agents’ fidelity to the
+various elements of
+an intervention’s
+protocol
+
+Fidelity to the original
+ideas linked to the
+innovation. Is it used
+as intended?
+
+The extent to which the
+computer has been
+used at center level,
+measured by
+proportion of visiting
+patients who perform
+the test or have been
+referred to the
+computer
+Fidelity to the original
+ideas linked to the
+computer-based test.
+Are patients being
+referred, is the result
+discussed with
+patients, is the test
+discussed among staff
+members?
+
+Maintenance
+
+The extent to which a
+program or policy
+becomes
+institutionalized or
+part of the routine
+
+The extent to which the
+innovation has been
+institutionalized and
+is still in use after a
+specified time period
+
+a
+
+Not relevant in this
+study
+
+Frequency of discussing
+lifestyle with patients
+now versus before.
+Perceptions about
+referring to the test.
+Reliance on effects of
+the test. Agreeing
+with advice provided.
+Perceptions of
+lifestyle issue
+importance at the
+center. Acceptance in
+staff group
+Proportion of patients
+performing the test
+and being referred to
+the test
+
+Test discussed in staff
+group. Test results
+discussed with
+patients. Proportion
+of patients referred
+and reasons for not
+referring. Feelings of
+being a part in the
+implementation
+process
+Not relevant in this
+study
+
+RE-AIM, reach, effectiveness: adoption, implementation and maintenance.
+
+implementation
+strategies.
+The
+explicit
+implementation strategy was based on Rogers’
+theories about the innovation-decision process,
+including knowledge, persuasion, decision and
+implementation (Rogers, 2003). Attributes of
+the innovation, such as trialability and observability, were also taken into account (Rogers,
+2003). The strategy began with an information
+session with a change agent from the research
+
+team visiting the center (knowledge). This was
+followed by a testing period for 1 month, during
+which all staff members were encouraged to
+perform the test themselves, and give their
+opinions about it ( persuasion, trialability,
+observability). After the testing period, the
+change agent visited the center again; there was
+a discussion about how the test could be used in
+daily work, and a mutual agreement to
+
+Downloaded from http://heapro.oxfordjournals.org/ at Consorcio Osakidetza on October 19, 2016
+
+Dimension
+
+170
+
+S. Carlfjord et al.
+
+Setting and study participants
+Swedish health care is publicly funded with hospital care and PHC provided by the county
+councils. Each county council has the responsibility to provide health care and preventive services to the population. Six PHC centers, with
+general practitioners (GPs), nurses and other
+staff members, two in each of three different
+county councils in the south east of Sweden,
+were recruited to the study. All the centers volunteered to participate. Through randomization,
+one center within each county council was
+selected to each one of the two implementation
+strategies. Before the introduction of the
+computer-based tool there was no difference
+between explicit centers and implicit centers
+regarding the perception of how lifestyle issues
+were prioritized at the center.
+Data collection
+When computers had been in operation for
+9 months, a questionnaire was sent by e-mail to
+staff members at the participating centers. The
+questionnaire was developed for the present
+study and the questions were thoroughly examined and discussed by a group of experts in the
+research team until consensus was reached. The
+questionnaire was tested by staff at a PHC
+center with experience of the computer-based
+lifestyle test, not participating in the study, and
+their comments were taken into account for the
+final version (Streiner and Norman, 2007).
+
+Apart from background factors, such as gender
+and profession, the questionnaire included
+seven statements about the computer-based tool
+answered on a 4-degree Likert scale with the
+response alternatives agree, partly agree, partly
+disagree, disagree and some questions concerning referral to the computer and opinions about
+lifestyle issues. Questions were formulated with
+the aim of covering and evaluating the three
+RE-AIM dimensions: reach, effectiveness and
+implementation. The questionnaires were distributed to all clinical staff members at the participating centers who meet patients in their
+daily practice, and thus could be expected to
+refer patients to the lifestyle test. Using the
+Web-based tool Publechw Survey 5.6, 159 questionnaires were distributed, 77 to explicit
+centers, 82 to implicit centers. Questionnaires
+were answered anonymously.
+Number of performed tests at each center
+and number of patients stating they had been
+referred to the computer were obtained from
+the computer database. The number of patients
+aged 18 years and older who had visited the
+center was obtained from county council registers. These data were used to evaluate the
+RE-AIM dimension adoption and were also
+collected after 9 months of operation.
+Data analysis
+Data were analyzed with the aim of comparing
+explicit centers with implicit centers. Data concerning adoption were analyzed as the proportion of visiting patients who performed the
+test and proportion of visiting patients who performed the test after referral; these are presented in terms of risk ratio. Analysis of
+differences between groups according to ordinal
+data was performed using the Mann –Whitney
+test, and differences according to categorical
+non-parametric data were analyzed using the x2
+test. Statistical significance was set at p  0.05.
+Statistical analyses were performed using the
+computer-based analysis program Statistical
+Package for the Social Sciences (SPSS) version
+16.0, and the open access statistical program
+OpenEpi version 2.3.
+RESULTS
+The number of responding individuals was 52
+from the explicit centers and 64 from the
+
+Downloaded from http://heapro.oxfordjournals.org/ at Consorcio Osakidetza on October 19, 2016
+
+incorporate it or not, as a working method, was
+made (decision). After that second meeting
+the lifestyle test was made available to patients
+and referral to the test was encouraged
+(implementation).
+The
+implicit
+implementation
+strategy
+included an information session at the center by
+a change agent from the research team. The
+computer-based lifestyle test was introduced,
+and staff members got instructions about the
+opportunity to refer their patients to the test.
+No further dialogue was encouraged. The computer with the lifestyle test was installed and
+patient testing could start immediately.
+In the rest of this article, the centers where
+explicit implementation strategy was used are
+called explicit centers, and centers where
+implicit implementation strategy was used are
+called implicit centers.
+
+Evaluation of implementation strategies
+
+Reach
+The dimension reach was measured using one
+question about frequency of referral to the test.
+The response alternatives were daily, once a
+week, once a month or never. At the explicit
+centers, 17% answered never, compared with
+47% at implicit centers. Thus, the proportion of
+staff members referring to the test at least once
+a month was 83% at explicit centers and 53% at
+implicit centers. The difference was significant
+( p ¼ 0.001). Weekly or daily referral was
+reported by 29% of staff at explicit centers, and
+16% of staff at implicit centers ( p ¼ 0.085). The
+main reason for not referring patients to the
+test was forgetting. The representativeness
+among those referring was also evaluated. At
+explicit centers, 83% reported referring patients
+to the test (GPs 83%, nurses 77%, other staff
+members 93%). At implicit centers 53% of staff
+reported referring to the test (GPs 50%, nurses
+48%, other staff members 63%).
+Effectiveness
+Seven statements/questions concerned the
+dimension effectiveness (Table 2). Significant
+differences between the two strategies were
+found in four of the seven items assessed, all in
+favor of the explicit implementation strategy. A
+fifth item reached the p-value 0.063. All these
+
+Table 2: Responses to questions concerning
+effectiveness: comparison between the two
+strategies
+Statement/Question
+
+Implementation
+strategy
+
+p-Value
+
+Explicit Implicit
+Using the computer-based lifestyle test is well supported
+among staff
+Agree
+9
+7
+0.203a
+Partly agree
+26
+27
+Partly disagree
+12
+20
+Disagree
+5
+7
+Total (n)
+52 (52) 61 (64)
+It is my opinion that this health care center prioritizes
+discussion lifestyle issues with patients
+Agree
+20
+15
+0.226a
+Partly agree
+21
+29
+Partly disagree
+10
+15
+Disagree
+1
+0
+Total (n)
+52 (52) 59 (64)
+It feels good/would feel good to refer patients to the
+computer-based lifestyle test
+Agree
+16
+10
+0.063a
+Partly agree
+30
+40
+Partly disagree
+5
+7
+Disagree
+1
+4
+Total (n)
+52 (52) 61 (64)
+It is my judgment that it is possible to influence patients’
+lifestyles with the aid of the computer-based lifestyle
+test
+Agree
+10
+4
+0.045a
+Partly agree
+30
+36
+Partly disagree
+11
+18
+Disagree
+1
+3
+Total (n)
+52 (52) 61 (64)
+Have you read the advice provided by the computer-based
+lifestyle test?
+Yes, I did read the advice
+48
+44
+0.013b
+No, I did not read the
+4
+15
+advice
+Total (n)
+52 (52) 59 (64)
+I feel I can stand for the advice provided by the
+c
+computer-based lifestyle test
+Agree
+16
+4
+0.011a
+Partly agree
+30
+38
+Partly disagree
+2
+2
+Disagree
+0
+0
+Total (n)
+48 (48) 44 (44)
+How often have you brought up lifestyle questions with
+patients since the computer-based lifestyle test was
+introduced, compared with before its introduction?
+Much more often now
+8
+1
+0.012a
+Somewhat more often now
+10
+6
+Just as often
+31
+52
+Somewhat more often
+3
+2
+previously
+Much more often previously
+0
+0
+Total (n)
+52 (52) 61 (64)
+a
+
+Mann– Whitney test.
+x test.
+Only respondents who did read the advice.
+
+b 2
+c
+
+Downloaded from http://heapro.oxfordjournals.org/ at Consorcio Osakidetza on October 19, 2016
+
+implicit centers, yielding response rates of 68
+and 78%, respectively. Women had higher
+response rates than men (75 versus 63%). The
+response rate for nurses was 78%, GPs 54%
+and other staff groups 83%. Response rates
+according to gender or profession did not differ
+significantly between the two strategies.
+Most of the respondents (84%) were women,
+81% at the explicit centers and 86% at the
+implicit centers. Age ranged from 26 to
+70 years; the mean age was 49 years at the explicit centers and 50 years at the implicit centers.
+At explicit centers, 81% of the respondents had
+been working in their profession for at least
+10 years; at implicit centers 77% had at least
+10 years experience. According to profession,
+19% of responders were GPs (23% at explicit
+centers, 16% at implicit centers), 51% were
+nurses (50% at explicit centers, 52% at implicit
+centers) and 30% represented other staff groups
+(27% at explicit centers, 33% at implicit
+centers).
+
+171
+
+172
+
+S. Carlfjord et al.
+
+five items were assessed on the individual level;
+the two items on the setting level were the two
+that showed no difference between strategies.
+Adoption
+Data concerning the dimension adoption are
+presented in Table 3, and show a significantly
+higher proportion of patients performing the
+test and being referred to the test at explicit
+centers than at implicit centers.
+
+DISCUSSION
+The main finding from this study was that three
+of the four assessed RE-AIM dimensions used
+to evaluate outcome seemed to be associated
+with the implementation strategy used. The
+RE-AIM dimensions that were affected by the
+implementation strategy used were reach, effectiveness and adoption. The dimension
+implementation did not show any differences
+according to implementation strategy. The
+adapted RE-AIM framework was found to be
+applicable for evaluating the implementation of
+a new tool for lifestyle intervention in PHC. A
+strength in the study was the high response
+rates regarding the questionnaire, and the representativeness of the responders, even though
+the number of participating units selected for
+the study was limited.
+Regarding the dimension reach, a higher proportion of staff members at the explicit centers
+reported using the new working tool. It is likely
+that the 1-month testing period facilitated reach
+in terms of acceptance at the individual level.
+When the computer-based tool was introduced
+at the different PHC centers, there was a
+decision to accept it on organizational level.
+However, to be used in the setting, each staff
+member had to make their own decision to
+accept the innovation. A possible explanation
+for our findings can be found in Frambach and
+Schillewaert’s model demonstrating how
+
+Implementation strategy
+Explicit Implicit
+Visiting patients age
+18 years
+Tests, total number
+Tests, referred patients
+Tests (RR)
+Referred (RR)
+
+14 235
+660
+365
+1
+1
+
+13 872
+346
+143
+0.54 (CI ¼ 0.48– 0.60)
+0.40 (CI ¼ 0.34– 0.48)
+
+different factors influence the individual’s attitude to an innovation that is already accepted
+by
+the
+organization
+(Frambach
+and
+Schillewaert, 2002). Organizational factors (e.g.
+management support and training), personal
+characteristics (e.g. values, experience and innovativeness) and social influence from peers or
+networks form the individual’s attitude to the
+innovation, and lead to an individual decision
+to accept (adopt) or reject (Frambach and
+Schillewaert, 2002).
+Items regarding effectiveness assessed on the
+setting level, like the overall attitudes among
+staff and discussions about lifestyle issues or
+about the test, did not differ between the two
+strategies. Effectiveness on the individual level,
+however, seemed to be influenced by the strategy used. A high proportion of staff members at
+the explicit centers, who had been encouraged
+to perform the test themselves, had read the
+advice provided by the computer and stated
+that they agreed with the advice. They also
+brought up lifestyle issues more often than they
+did before. This can probably be explained in
+terms of learning, because the change involved
+in introducing and starting to use a new tool
+might have been facilitated by testing the computer, and reading and reflecting on the advice
+provided by the computer.
+Research use in terms of learning on the individual and organizational levels has been
+studied by The Research Unit for Research
+Utilization (RURU) group (Nutley et al., 2007).
+Individual learning has been shown to be most
+effective when learners can interact with one
+another and where processing experiences
+through
+reflection
+is
+encouraged.
+Organizational learning is facilitated by cultural
+
+Downloaded from http://heapro.oxfordjournals.org/ at Consorcio Osakidetza on October 19, 2016
+
+Implementation
+Eight of the questions/statements assessed the
+dimension implementation. Responses to these
+questions are presented in Table 4. Regarding
+implementation there were no significant differences between the two implementation
+strategies.
+
+Table 3: Number of tests and number of referred
+patients versus number of patients aged 18 years
+and older visiting the center: comparison between
+the two strategies in terms of risk ratio
+
+Evaluation of implementation strategies
+
+173
+
+Table 4: Responses to the questions concerning implementation: comparison between the two strategies
+Statement/Question
+
+Implementation strategy
+Explicit
+
+p-Value
+
+Implicit
+
+a
+
+Mann–Whitney test.
+x test.
+Only respondents who state they do refer to the test.
+d
+Only respondents who state they have discussed the results.
+e
+Only respondents who state they do not discuss the results.
+f
+Only respondents who state they never refer to the test.
+g
+No statistical test could be performed because of the low number of respondents.
+b 2
+c
+
+values such as belief in human potential, openness, trust and tolerance of mistakes (Nutley
+et al., 2007). It seems likely that the explicit
+strategy used in the present study influenced
+
+individual learning, but had limited effect on
+learning at the organizational level. It should be
+noted that, also at explicit centers, two-thirds of
+the staff group reported a low rate of using the
+
+Downloaded from http://heapro.oxfordjournals.org/ at Consorcio Osakidetza on October 19, 2016
+
+Staff often discuss the computer-based test
+Agree
+3
+3
+0.408a
+Partly agree
+17
+17
+Partly disagree
+24
+28
+Disagree
+8
+13
+Total (n)
+52 (52)
+61 (64)
+I have felt being involved in the process with introducing the computer-based lifestyle test at the center
+Agree
+10
+8
+0.452a
+Partly agree
+22
+21
+Partly disagree
+6
+21
+Disagree
+14
+11
+Total (n)
+52 (52)
+61 (64)
+How do you use the results from the computer-based lifestyle test in meetings with your patients?c
+I do not use the results
+20
+16
+0.727b
+I discuss the results if the patient bring it up
+19
+14
+I ask for the results and try to start a discussion
+4
+3
+Total (n)
+43 (43)
+33 (34)
+d
+When do you discuss the results from the computer-based lifestyle test with patients?
+During the appointment when I refer the patient to the test
+13
+4
+0.113b
+At the next appointment
+17
+9
+Other time
+3
+4
+Total (n)
+23 (23)
+17 (17)
+Of the patients you have referred to the computer-based lifestyle test, approximately what percentage have you discussed
+the results with?d
+10% or less
+16
+12
+0.944b
+More than 10%
+7
+5
+Total (n)
+23 (23)
+17 (17)
+Why have you not used the results of the computer-based lifestyle test at appointments with your patients?e
+It has not been relevant
+7
+6
+0.737b
+I forget
+2
+1
+No time
+4
+1
+Other
+7
+6
+Total (n)
+20 (20)
+14 (16)
+Since beginning to use the computer-based lifestyle test, approximately what percentage of your patients have you referred
+to the test?c
+10% or less
+31
+27
+0.323b
+More than 10%
+12
+6
+Total (n)
+43 (43)
+33 (34)
+Why have you not referred patients to the computer-based lifestyle test?f
+g
+It is not my job
+1
+3
+It does not fit into my routines
+2
+3
+I forget
+2
+10
+Lack of time
+0
+0
+Other
+0
+1
+Total (n)
+5 (9)
+17 (30)
+
+174
+
+S. Carlfjord et al.
+
+The RE-AIM dimension maintenance was
+not considered in this study, because change at
+organizational level tends to be a slow process,
+and the long-term evaluation will not be conducted until the tool has been in operation for
+2 years.
+One of the features of the explicit implementation strategy (the discussion/decision session)
+was expected to produce a higher level of staff
+involvement in the decision process. However,
+staff at these centers did not express a higher
+degree of perceived involvement. Involvement
+is an important issue in change and innovation.
+Poole and Van de Ven argue that ‘successful
+planned change requires a commitment
+grounded in an engaging vision and deep
+emotional involvement with the program’
+(Poole and Van de Ven, 2004). It seems that
+offering a discussion/decision session is not sufficient to achieve this deep emotional involvement. In addition to the decision session, the
+major difference between the two implementation strategies was the 1-month testing period,
+which did not generate any additional costs.
+Thus, implementation outcome improved
+despite limited financial input, an important
+factor because benefits and costs of the
+implementation and the benefits and costs as a
+result of changes in provider behavior have to
+be considered at the introduction of new tools
+or guidelines in health care (Grimshaw et al.,
+2004).
+Implementation strategy was the only factor
+influencing implementation outcome that was
+evaluated in the present study. Other important
+factors have also been shown to affect the
+implementation process. The Promoting Action
+on Research Implementation in Health Services
+(PARIHS) model describes implementation
+success as a function of the nature and type of
+evidence, the qualities of the context and the
+way the process is facilitated (Kitson et al.,
+2008). The implementation strategies used in
+our study represented two ways of facilitating
+the process. The evidence (in our case the lifestyle intervention tool) was the same in all
+centers, although context might have differed
+between the PHC centers. Greenhalgh et al.
+also highlight the importance of the characteristics of the potential adopters, another factor
+that was not considered in the present study
+Greenhalgh et al. (2005).
+Whether implementation strategies should
+be based on theory or not has been discussed
+
+Downloaded from http://heapro.oxfordjournals.org/ at Consorcio Osakidetza on October 19, 2016
+
+new tool, referring patients to the computerbased test less than once a week.
+The dimension effectiveness in the RE-AIM
+framework suggests that not only positive effects
+of an intervention but also unexpected negative
+effects should be evaluated (Lövgren et al., 2001).
+Such unexpected negative effects on participants
+were found in a study of a physical activity intervention among students conducted by Zabinski
+et al. (Zabinski et al., 2001) who found increasing
+concerns about slimming in women. In our study,
+one negative consequence of the availability of a
+computer-based lifestyle test could be staff
+neglecting to talk about lifestyle with their
+patients, believing that providing the computerbased test is sufficient. This was assessed, but no
+such consequences were found regarding either
+of the two strategies. Other negative effects from
+using the new tool were not studied, which could
+be considered a limitation.
+Adoption regarding the proportion of
+patients performing the test and the proportion
+being referred differed between the explicit and
+implicit centers, which is somewhat surprising
+because only referral was expected to be influenced by the explicit implementation strategy.
+One possible explanation could be that individual staff members at the explicit centers discussed lifestyle issues with their patients to a
+higher degree and, even if they did not refer
+their patients to the test, patients themselves
+became curious and performed the test spontaneously. Data concerning referral to the test
+in this study were patient-reported, leaving
+unanswered the question about how many
+patients were referred to the test but did not do
+it. This is a weakness, but it probably affects the
+centers for the different strategies equally, and
+should not influence the results regarding the
+implementation strategy used.
+The implementation dimension, concerning
+the extent to which the innovation has been
+used as intended, showed no differences according to the implementation strategy used. It
+would appear that those using the test used it in
+a similar way and this did not depend on how it
+was introduced. A study of guideline implementation among nurses showed that the adaptation
+of guidelines to local circumstances was crucial
+for a successful implementation (Alanen et al.,
+2009). This was not the case in our study, as
+staff members chose to adopt or reject the tool,
+but once they had decided to adopt it they used
+it in the intended way.
+
+Evaluation of implementation strategies
+
+by several researchers (Eccles et al., 2005,
+Oxman et al., 2005, Bhattacharyya et al., 2006).
+The theory-based strategy used in our study
+seemed to have a positive impact on the
+implementation. If this was a result solely of
+the strategy being based on theory, or if other
+factors, beyond the scope of this study, influenced outcome remains unsolved. The aim
+with this study, however, was to evaluate how
+outcome was influenced by the implementation
+strategy
+used,
+applying
+the
+RE-AIM
+framework.
+
+In this study, we compared an explicit theorybased implementation strategy with an implicit
+strategy. Our conclusion is that, regarding the
+dimensions reach, adoption and effectiveness,
+the theory-based implementation strategy,
+including a testing period and allowing staff to
+try the innovation before using it in their daily
+practice, seemed to be more successful than a
+strategy in which the innovation was introduced
+and immediately used for patients.
+
+ACKNOWLEDGEMENTS
+The authors are grateful to managers and staff
+at the PHC centers who participated in the
+study.
+Conflict of interest: P.B. holds shares in and
+works as a consultant for a company that develops and markets computer-based lifestyle tests
+similar to the one mentioned in this paper.
+
+FUNDING
+This work was supported by the Medical
+Research Council of Southeast Sweden
+(FORSS) [71891]; and by the Swedish Council
+for Working Life and Research (FAS)
+[2009-0806].
+
+REFERENCES
+Alanen, S., Välimäki, M. and Kaila, M. (2009) Nurses’
+experiences of guideline implementation: a focus
+group study. Journal of Clinical Nursing, 18,
+2613– 2621.
+
+Bakken, S. and Ruland, C. (2009) Translating clinical
+informatics interventions into routine clinical care: how
+can the RE-AIM framework help? Journal of the
+American Medical Informatics Association, 16, 889– 897.
+Bhattacharyya, O., Reeves, S., Garfinkel, S. and Zwarstein,
+M. (2006) Designing theoretically-informed implementation interventions. Implementation Science, 1, 5.
+Carlfjord, S., Nilsen, P., Leijon, M., Andersson, A.,
+Johansson, K. and Bendtsen, P. (2009) Computerized
+lifestyle intervention in routine primary health care.
+Evaluation of usage on provider and responder levels.
+Patient Education and Counseling, 75, 238–243.
+Eccles, M. and Mittman, B. (2006) Welcome to implementation science. Implementation Science, 1, 1.
+Eccles, M., Grimshaw, J., Walker, A., Johnston, M. and
+Pitts, N. (2005) Changing the behavior of healthcare
+professionals the use of theory in promoting the uptake
+of research findings. Journal of Clinical Epidemiology,
+58, 107 –112.
+Estabrooks, C., Derksen, L., Winther, C., Lavis, J. N.,
+Scott, S. D., Wallin, L. et al. (2008) The intellectual
+structure and substance of the knowledge utilization
+field: a longitudinal author co-citation analysis, 1945 to
+2004. Implementation Science, 3, 49.
+Evidence-Based Medicine Working Group. (1992)
+Evidence-based medicine. A new approach to teaching
+the practice of medicine. JAMA, 268, 2420– 2425.
+Farris, R. P., Will, J. C., Khavjou, O. and Finkelstein,
+E. A. (2007) Beyond effectiveness: evaluating the public
+health impact of the WISEWOMAN program.
+American Journal of Public Health, 97, 641– 647.
+Frambach, R. and Schillewaert, N. (2002) Organizational
+innovation adoption—a multi-level framework of determinants and opportunities for future research. Journal
+of Business Research, 55, 163 –176.
+Glasgow, R. E., Vogt, T. M. and Boles, S. M. (1999)
+Evaluating the public health impact of health promotion
+interventions: the RE-AIM framework. American
+Journal of Public Health, 89, 1322–1326.
+Greenhalgh, T., Robert, G., Bate, P., Macfarlane, F. and
+Kyriakidou, O. (2005) Diffusion of Innovation in Health
+Service Organisations. A Systematic Literature Review.
+BMJ Books, Oxford.
+Grimshaw, J. M., Thomas, R. E., MacLennan, G., Fraser,
+C., Ramsay, C. R., Vale, L. et al. (2004) Effectiveness
+and efficiency of guideline dissemination and implementation strategies. Health Technology Assessment, 8,
+1 –351.
+Jillcott, S., Ammerman, A., Sommers, J. and Glasgow,
+R. E. (2007) Applying the RE-AIM framework to assess
+the public health impact of policy change. Annals of
+Behavioral Medicine, 34, 105–114.
+Kitson, A. L., Rycroft-Malone, J., Harvey, G.,
+McCormack, B., Seers, K. and Titchen, A. (2008)
+Evaluating the successful implementation of evidence
+into practice using the PARIHS framework: theoretical
+and practical challenges. Implementation Science, 3, 1.
+Li, F., Harmer, P., Glasgow, R., Mack, K. A., Sleet, D.,
+Fisher, K. J. et al. (2008) Translation of an effective tai
+chi intervention into a community-based falls-prevention
+program. American Journal of Public Health, 98, 1195–
+1198.
+Lövgren, G., Åström, G. and Engström, B. (2001) A care
+policy and its implementation. International Journal of
+Nursing Practice, 7, 92–103.
+
+Downloaded from http://heapro.oxfordjournals.org/ at Consorcio Osakidetza on October 19, 2016
+
+CONCLUSION
+
+175
+
+176
+
+S. Carlfjord et al.
+
+Nutley, S. M., Walter, I. and Davies, H. T. O. (2007) Using
+Evidence. How Research Can Inform Public Services.
+Policy Press, Bristol.
+Oxman, A. D., Fretheim, A. and Flottorp, S. (2005) The
+OFF theory of research utilization. Journal of Clinical
+Epidemiology, 58, 113 –116.
+Poole, M. S. and Van de Ven, A. H. (2004) Handbook of
+Organizational Change and Innovation. Oxford
+University Press, New York, p. 27.
+Rogers, E. M. (2003). Diffusion of Innovation. Free Press,
+New York.
+Streiner, D. L. and Norman, G. R. (2007) Health
+Measurement Scales. A Practical Guide to Their
+Development and Use, 3rd edition. Oxford University
+Press, New York.
+
+Toth-Pal, E., Wårdh, I., Strender, L-E. and Nilsson, G.
+(2008) Implementing a clinical decision-support system
+in practice: a qualitative analysis of influencing attitudes
+and characteristics among general practitioners.
+Informatics for Health and Social Care, 33, 39–54.
+van Achterberg, T., Huisman-de Waal, G. G., Ketelaar, N.
+A., Oostendorp, R. A., Jacobs, J. E. and Wollersheim,
+H. C. (2010) How to promote healthy behaviours in
+patients? An overview of evidence for behaviour
+change techniques. Health Promotion International, 26,
+148–162.
+Zabinski, M. F., Calfas, K. J., Gehrman, C. A., Wilfley, D. E.
+and Sallis, J. F. (2001) Effects of physical activity intervention on body image in university seniors: project
+GRAD. Annals of Behavioral Medicine, 23, 247– 252.
+
+Downloaded from http://heapro.oxfordjournals.org/ at Consorcio Osakidetza on October 19, 2016
+
+
